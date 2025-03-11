@@ -1,0 +1,8 @@
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.csproj.AssemblyReference.cache
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.AssemblyInfoInputs.cache
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.AssemblyInfo.cs
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.csproj.CoreCompileInputs.cache
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\isabela215377\Desktop\TODOLISTMANAGER\TodoListManager.API\obj\Debug\net7.0\TodoListManager.API.sourcelink.json
